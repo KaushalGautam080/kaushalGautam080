@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kaushal Gautam</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftechnology-cartoon&psig=AOvVaw2spuVDBZ1FVppO9HG4xAKS&ust=1702099038963000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDxoKOL_4IDFQAAAAAdAAAAABAJ alt="">
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
