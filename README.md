@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KaushalGautam080/kaushalGautam080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Kaushal Gautam</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
