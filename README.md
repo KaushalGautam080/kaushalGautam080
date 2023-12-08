@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Computer Scince**
+- 🌱 I’m currently learning **CS**
 
 - ⚡ Fun fact **Iam boring**
 
