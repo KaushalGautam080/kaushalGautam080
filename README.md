@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **CS**
+- 🌱 I’m currently learning **CS and EH**
 
 - ⚡ Fun fact **Iam boring**
 
