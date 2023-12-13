@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **CS and EH**
+- 🌱 I’m currently learning **CyberSecurity and Ethical Hacking**
 
 - ⚡ Fun fact **Iam boring**
 
