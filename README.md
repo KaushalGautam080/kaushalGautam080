@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity and Ethical Hacking**
 
-- ⚡ Fun fact **Iam boring**
+- ⚡ Fun fact **Iam Mortal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
